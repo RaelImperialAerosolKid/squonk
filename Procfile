@@ -1,0 +1,1 @@
+worker: squonk-bot.js
